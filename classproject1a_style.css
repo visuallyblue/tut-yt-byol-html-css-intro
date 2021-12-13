@@ -1,0 +1,23 @@
+.skyblue-box{
+    background-color: lightblue;
+    width: 550px;
+    height: 450px;
+}
+
+.green-box{
+    background-color:lightseagreen;
+    width: 450px;
+    height: 150px;
+}
+
+.chocolate-box{
+    background-color:chocolate;
+    width: 300px;
+    height: 250px;
+}
+
+.blue-box{
+    background-color: blue;
+    width: 100px;
+    height: 70px;
+}
